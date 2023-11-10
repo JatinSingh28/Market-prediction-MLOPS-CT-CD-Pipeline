@@ -1,0 +1,11 @@
+active_stack_id: 0f31aa73-9c84-4dd3-929b-a17cc5266b86
+active_workspace_id: deb62b1c-067f-4e43-930c-d7e8d89570a7
+metadata:
+  artifact_store:
+    backend: S3
+    config:
+      access_key: AKIAROGDROTDMQWHMKOV
+      bucket: your-s3-bucket-name
+      endpoint_url: http://market-forecast-artifact-store-zenml.s3-website.Region.amazonaws.com
+      region: eu-north-1
+      secret_key: FndQy9mFQni6C6fwRF7R0ztjWY0BdSUsxvgof5TT
